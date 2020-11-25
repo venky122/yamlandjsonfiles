@@ -1,0 +1,21 @@
+{
+    "public-clouds": [
+        {
+            "name": "aws cloud",
+            "DOB": "march 14",
+            "year": "2006",
+            "parent": "amazon",
+            "CEO": "Andy Jassy",
+            "Services": ["ec2","VPC","RDS"]
+        },
+        {
+            "name": "azure cloud",
+            "DOB": "Feb 4",
+            "year": "2010",
+            "parent": "microsoft",
+            "CEO": "sathya N",
+            "Services": ["VM","VNET","Azure-SQL"]
+        }
+    ]
+   
+}
