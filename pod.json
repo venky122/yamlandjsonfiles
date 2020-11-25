@@ -6,7 +6,11 @@
             "year": "2006",
             "parent": "amazon",
             "CEO": "Andy Jassy",
-            "Services": ["ec2","VPC","RDS"]
+            "Services": [
+                "ec2",
+                "VPC",
+                "RDS"
+            ]
         },
         {
             "name": "azure cloud",
@@ -14,8 +18,11 @@
             "year": "2010",
             "parent": "microsoft",
             "CEO": "sathya N",
-            "Services": ["VM","VNET","Azure-SQL"]
+            "Services": [
+                "VM",
+                "VNET",
+                "Azure-SQL"
+            ]
         }
     ]
-   
 }
