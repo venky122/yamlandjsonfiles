@@ -1,0 +1,22 @@
+---
+  public-clouds:
+    - name: "aws cloud"
+      DOB: "march 14"
+      Year: 2006
+      parent: "amazon"
+      CEO: "Andy Jassy"
+      Services:
+        - Ec2 
+        - VPC
+        - RDS
+     
+    - name: "azure cloud"
+      DOB: "Feb 4"
+      year: 2010
+      parent: "Microsoft" 
+      CEO: "Sathya Nadhala"
+      Services:
+        - VM
+        - VNET 
+        - Azure-SQL
+           
